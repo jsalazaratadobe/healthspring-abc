@@ -264,6 +264,18 @@ main .section.highlight {
   padding: 40px 0;
 }
 
+main .section[text='white'] {
+  color: white;
+}
+
+main .section[text='black'] {
+  color: black;
+}
+
+main .section[background='purple'] {
+  background: #1f1647;
+}
+
 main .section[data-section-divider='both-color'] {
   border-top: 1.5px solid #0b543d;
   border-bottom: 1.5px solid #0b543d;
