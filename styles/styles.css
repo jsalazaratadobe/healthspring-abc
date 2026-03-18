@@ -264,15 +264,15 @@ main .section.highlight {
   padding: 40px 0;
 }
 
-main .section[text='white'] {
+main .section[data-text='white'] {
   color: white;
 }
 
-main .section[text='black'] {
+main .section[data-text='black'] {
   color: black;
 }
 
-main .section[background='purple'] {
+main .section[data-background='purple'] {
   background: #1f1647;
 }
 
