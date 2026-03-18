@@ -304,6 +304,11 @@ main .section[data-spacing='l'] {
   padding: 100px;
 }
 
+main .section[data-image-decoration='yes'] {
+  img {border-radius: 14px;}
+}
+
+
 /* main .section[data-section-divider='both-color'] {
   border-top: 1.5px solid #0b543d;
   border-bottom: 1.5px solid #0b543d;
