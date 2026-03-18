@@ -10,15 +10,15 @@
 }
 
 .hero h1 {
-  max-width: 1200px;
-  margin-left: auto;
+  max-width: 50%;
+  margin-left: 14%;
   margin-right: auto;
   color: var(--background-color);
 }
 
 .hero p {
-  max-width: 1200px;
-  margin-left: auto;
+  max-width: 50%;
+  margin-left: 14%;
   margin-right: auto;
   color: var(--background-color);
 }
