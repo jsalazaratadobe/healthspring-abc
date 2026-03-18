@@ -263,3 +263,22 @@ main .section.highlight {
   margin: 0;
   padding: 40px 0;
 }
+
+main .section[data-section-divider='both-color'] {
+  border-top: 1.5px solid #0b543d;
+  border-bottom: 1.5px solid #0b543d;
+  background: black;
+}
+
+main .section[data-section-divider='top'] {
+  border-top: 1.5px solid #0b543d;
+}
+
+main .section[data-section-divider='bottom'] {
+  border-bottom: 1.5px solid #0b543d;
+}
+
+main .section[data-section-divider='top-left'] {
+  border-top: 1.5px solid #0b543d;
+  margin: 0;
+}
