@@ -76,7 +76,16 @@
   p {
     font-size: 14px; /* Smaller font size for mobile devices */
   }
-  h1, h2, h3 {
+  
+  h1 {
+    font-size: 20px; /* Example for headings */
+  }
+
+  h2 {
+    font-size: 20px; /* Example for headings */
+  }
+
+  h3 {
     font-size: 20px; /* Example for headings */
   }
 }
