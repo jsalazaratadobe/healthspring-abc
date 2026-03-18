@@ -25,5 +25,5 @@
   width: 100%;
   aspect-ratio: 4 / 3;
   object-fit: cover;
-  clip-path: circle (40%);
+  clip-path: circle(40%);
 }
