@@ -5,10 +5,11 @@
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(257px, 1fr));
   grid-gap: 24px;
+  text-align: center;
 }
 
 .cards > ul > li {
-  border: 1px solid #dadada;
+  /* border: 1px solid #dadada; */
   background-color: var(--background-color);
 }
 
@@ -24,4 +25,5 @@
   width: 100%;
   aspect-ratio: 4 / 3;
   object-fit: cover;
+  clip-path: circle (40%);
 }
