@@ -8,10 +8,10 @@
   text-align: center;
 }
 
-.cards > ul > li {
+/* .cards > ul > li { */
   /* border: 1px solid #dadada; */
-  background-color: var(--background-color);
-}
+  /* background-color: var(--background-color);
+} */
 
 .cards .cards-card-body {
   margin: 16px;
