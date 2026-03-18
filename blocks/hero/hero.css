@@ -12,14 +12,14 @@
 .hero h1 {
   max-width: 50%;
   margin-left: 14%;
-  margin-right: auto;
+  margin-right: 50%;
   color: var(--background-color);
 }
 
 .hero p {
   max-width: 50%;
   margin-left: 14%;
-  margin-right: auto;
+  margin-right: 50%;
   color: var(--background-color);
 }
 
