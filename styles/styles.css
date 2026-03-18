@@ -272,11 +272,27 @@ main .section[data-text='black'] {
   color: black;
 }
 
-main .section[data-background='purple'] {
+main .section[data-background='dark-purple'] {
   background: #1f1647;
 }
 
-main .section[data-section-divider='both-color'] {
+main .section[data-background='purple'] {
+  background: #9e28b5;
+}
+
+main .section[data-background='taupe'] {
+  background: #e8e7da;
+}
+
+main .section[data-align-text='left'] {
+  text-align: left;
+}
+
+main .section[data-align-text='center'] {
+  text-align: center;
+}
+
+/* main .section[data-section-divider='both-color'] {
   border-top: 1.5px solid #0b543d;
   border-bottom: 1.5px solid #0b543d;
   background: black;
@@ -293,4 +309,4 @@ main .section[data-section-divider='bottom'] {
 main .section[data-section-divider='top-left'] {
   border-top: 1.5px solid #0b543d;
   margin: 0;
-}
+} */
