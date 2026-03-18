@@ -72,12 +72,12 @@
   }
 }
 
-@media (max-width: 600px) {
+@media (max-width: 900px) {
   p {
     font-size: 14px; /* Smaller font size for mobile devices */
   }
   h1, h2, h3 {
-    font-size: 24px; /* Example for headings */
+    font-size: 20px; /* Example for headings */
   }
 }
 
