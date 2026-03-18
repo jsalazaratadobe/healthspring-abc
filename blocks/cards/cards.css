@@ -27,3 +27,12 @@
   object-fit: cover;
   clip-path: circle(40%);
 }
+
+.cards.square > ul > li img {
+  clip-path: unset;
+}
+
+.cards.square > ul > li  {
+  background: white;
+}
+  
