@@ -30,6 +30,7 @@
 
 .cards.square > ul > li img {
   clip-path: unset;
+  border-radius: 14px;
 }
 
 .cards.square > ul > li  {
