@@ -292,8 +292,16 @@ main .section[data-align-text='center'] {
   text-align: center;
 }
 
-main .section[data-spacing='yes'] {
+main .section[data-spacing='s'] {
+  padding: 25px;
+}
+
+main .section[data-spacing='m'] {
   padding: 50px;
+}
+
+main .section[data-spacing='l'] {
+  padding: 100px;
 }
 
 /* main .section[data-section-divider='both-color'] {
