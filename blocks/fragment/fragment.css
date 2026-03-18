@@ -1,6 +1,5 @@
 /* stylelint-disable no-empty-source */
-.fragment-wrapper {
+.hero-container .fragment-wrapper {
   max-width: unset;
   padding: 0 0;
 }
-;
