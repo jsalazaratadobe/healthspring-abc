@@ -10,14 +10,14 @@
 }
 
 .hero h1 {
-  max-width: 50%;
+  max-width: 1200px;
   margin-left: 14%;
   margin-right: 50%;
   color: var(--background-color);
 }
 
 .hero h2 {
-  max-width: 50%;
+  max-width: 1200px;
   margin-left: 14%;
   margin-right: 50%;
   color: var(--background-color);
