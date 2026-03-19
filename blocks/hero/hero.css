@@ -14,6 +14,8 @@
   margin-left: 14%; */
   margin-right: 50%;
   color: var(--background-color);
+  padding: 0 32px;
+  
 }
 
 .hero h2 {
@@ -21,6 +23,7 @@
   margin-left: 14%; */
   margin-right: 50%;
   color: var(--background-color);
+  padding: 0 32px;
 }
 
 .hero h3 {
@@ -28,12 +31,14 @@
   margin-left: 14%; */
   margin-right: 50%;
   color: var(--background-color);
+  padding: 0 32px;
 }
 
 .hero p {
   /* max-width: 50%;
   margin-left: 14%; */
   margin-right: 50%;
+  padding: 0 32px;
   color: var(--background-color);
 }
 
