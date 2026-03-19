@@ -56,11 +56,11 @@
   height: 100%;
 }
 
-@media (width >= 900px) {
+/* @media (width >= 900px) {
   .hero {
     padding: 40px 100px;
   }
-}
+} */
 
 @media (max-width: 900px) {
   p {
