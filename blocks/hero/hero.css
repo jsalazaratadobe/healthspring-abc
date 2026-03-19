@@ -77,3 +77,9 @@
     font-size: 36px; /* Example for headings */
   }
 }
+
+@media (max-width: 1247px) {
+  .hero {
+    padding: 40px 5%;
+  }
+
